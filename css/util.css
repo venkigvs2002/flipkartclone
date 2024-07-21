@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+    "HM Sans Semi Bold", "HMSansHebrew-SemiBold", "ヒラギノ角ゴ Pro W3", "Hiragino Kaku Gothic Pro", Osaka, "メイリオ", Meiryo, "ＭＳ Ｐゴシック", "MS PGothic", sans-serif;
+}
+body{
+    background-color: white;
+    font-family: "Source Serif 4", serif;
+}
+.all-centre{
+    background-color: black;
+    color: white;
+    height: 10vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.logo{
+    width: 70px;
+    display: flex;
+}
+.my-1{
+    text-decoration:wavy red ;
+}

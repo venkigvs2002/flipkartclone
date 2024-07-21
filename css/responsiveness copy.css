@@ -1,0 +1,20 @@
+@media screen and (max-width:1000px) {
+    body{
+        background-color: black;
+    }
+    nav{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    .box{
+        height: 23vh;
+    }
+    .logo{
+        width: 59px;
+        display: flex;
+        height: 23px;
+        margin-top: 9px;
+    }
+}
